@@ -11,7 +11,7 @@ I'm a Software Engineer based in Karachi, Pakistan 🇵🇰 with a passion for f
 
 - 👨‍💻 All of my projects are available at my GitHub Profile.
 
-- 📫 How to reach me **rayyanali2705@gmail.com**
+- 📫 You can reach me at **rayyanali2705@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
