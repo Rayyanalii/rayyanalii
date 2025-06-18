@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rayyanalii&label=Profile%20views&color=0e75b6&style=flat" alt="rayyanalii" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rayyanalii" alt="rayyanalii" /></a> </p>
-
 - 🌱 I’m currently learning **AL/ML**
 
 - 👨‍💻 All of my projects are available at [my Github Profile](my Github Profile)
@@ -22,6 +20,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rayyanalii&show_icons=true&locale=en&layout=compact" alt="rayyanalii" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rayyanalii&show_icons=true&locale=en" alt="rayyanalii" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rayyanalii&" alt="rayyanalii" /></p>
 
