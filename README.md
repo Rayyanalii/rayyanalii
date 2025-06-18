@@ -7,8 +7,6 @@
 
 I'm a Software Engineer based in Karachi, Pakistan 🇵🇰 with a passion for full-stack development, machine learning, and building impactful solutions. I enjoy working on both client-facing apps and intelligent backend systems. 
 
-- 🌱 I’m currently learning **AL/ML**
-
 - 👨‍💻 All of my projects are available at my GitHub Profile.
 
 - 📫 You can reach me at **rayyanali2705@gmail.com**
