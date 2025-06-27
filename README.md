@@ -1,5 +1,5 @@
 <h1 align="center">Hello there, I'm Ayyan Ali</h1>
-<h3 align="center">A passionate Software Engineer from Karachi, Pakistan</h3>
+<h3 align="center">Final-Year Software Engineering Student at FAST NUCES, Karachi</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rayyanalii&label=Profile%20views&color=0e75b6&style=flat" alt="rayyanalii" /> </p>
 
