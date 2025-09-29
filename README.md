@@ -1,5 +1,6 @@
 <h1 align="center">Hello, Ayyan here ;)</h1>
 
+Everyone has this on, so I thought, why not:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rayyanalii&label=Profile%20views&color=0e75b6&style=flat" alt="rayyanalii" /> </p>
 
 ## 🚀 About Me
