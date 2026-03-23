@@ -1,12 +1,12 @@
 <div align="center">
 
-# Hi, I'm Rayyan 👋
+# Hi, I'm Ayyan Ali
 
 ### Full Stack Engineer · AI Integration · Mobile · Backend Architecture
 
 *Software Engineering @ FAST-NUCES Karachi '26 · Gold Medalist*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rayyanalii)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayyanalii)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rayyanalii)
 
 </div>
@@ -80,12 +80,7 @@ Full-stack engineer who builds things that actually ship. I work across the enti
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rayyanalii&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Rayyanalii&theme=tokyonight&hide_border=true)
+<img height="180em" src="https://streak-stats.demolab.com?user=Rayyanalii&theme=tokyonight&hide_border=true"/>
 
 </div>
 
