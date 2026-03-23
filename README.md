@@ -76,12 +76,9 @@ Full-stack engineer who builds things that actually ship. I work across the enti
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
-
 ### GitHub Stats
-
 <div align="center">
 
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rayyanalii&theme=tokyonight"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rayyanalii&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
 </div>
