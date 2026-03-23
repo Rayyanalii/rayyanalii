@@ -81,7 +81,7 @@ Full-stack engineer who builds things that actually ship. I work across the enti
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rayyanalii&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rayyanalii&theme=tokyonight"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rayyanalii&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
 </div>
