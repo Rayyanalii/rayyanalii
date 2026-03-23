@@ -77,24 +77,11 @@ Full-stack engineer who builds things that actually ship. I work across the enti
 
 ---
 
-### What I Work On
-
-```text
-Web Development        ████████████████████░   Full Stack (Next.js, React, Node.js)
-Mobile Development     ███████████████░░░░░░   React Native
-Backend & APIs         ████████████████████░   REST, async pipelines, job queues
-AI Integration         ████████████████░░░░░   OpenAI, embeddings, semantic search
-Databases              ███████████████████░░   SQL, NoSQL, vector DBs
-DevOps                 █████████████░░░░░░░░   CI/CD, load testing, VPS deployment
-```
-
----
-
 ### GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rayyanalii&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rayyanalii&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rayyanalii&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
 </div>
